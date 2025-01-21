@@ -1,0 +1,46 @@
+
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .navbar {
+      margin-bottom: 0px;
+    }
+    .header {
+      background: url('https://i.postimg.cc/FKSjnNjH/pexels-ingo-631411.jpg') no-repeat center center;
+      background-size: cover;
+      color: rgb(255, 255, 255);
+      text-align: center;
+      padding: 250px 0;
+    }
+    .services, .portfolio, .footer {
+      padding: 60px 0;
+    }
+
+    .services .fas { 
+        font-size: 1.5rem; 
+         margin-bottom: 50px; 
+         margin-top: 100px;
+         color: rgb(4, 116, 37)
+        }
+
+    .portfolio img {
+      width: 100%;
+      height: auto;
+    }
+    .footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 20px 0;
+    }
+    .footer a {
+      color: rgb(9, 134, 86);
+    }
+
+    h4, p {
+        text-align: center;
+        font-size: small;
+    }
+    
+    
+ 
